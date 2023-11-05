@@ -1,6 +1,8 @@
 [core]
-    remote = drive_resize
+    remote = drive_drive_black_white
 ['remote "origin_local"']
     url = /content/drive/MyDrive/dvc/drive_raw
 ['remote "drive_resize"']
     url = /content/drive/MyDrive/dvc/drive_resize
+['remote "drive_drive_black_white"']
+    url = /content/drive/MyDrive/dvc/drive_black_white
